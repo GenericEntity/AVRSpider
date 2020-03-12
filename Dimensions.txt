@@ -1,0 +1,3 @@
+Pitch distance: 0.1" / 100mils / 2.54mm
+Bridge: 4 x pitch = 0.4" / 400mils / 10.16mm
+Extending one per side: 6 x pitch = 0.6" / 600mils / 15.24mm

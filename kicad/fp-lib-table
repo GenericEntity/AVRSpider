@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name AVRSpider)(type KiCad)(uri ${KIPRJMOD}/AVRSpider.pretty)(options "")(descr ""))
+)
